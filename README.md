@@ -1,4 +1,4 @@
-# Hi, I’m @Natzkiiii
+# Hi, I’m Aubrey
 ---
 
 - 🌟 **Interests:** Python, Reverse Engineering, Networks
