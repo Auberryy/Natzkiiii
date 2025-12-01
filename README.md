@@ -18,7 +18,8 @@ Your personal information is only used for the purposes of addressing and resolv
 ---
 ## Intellectual Property and Licensing
 
-Unless specifically stated otherwise, all content in this repository and other repositories/projects that i created is protected under [MY OWN LICENSE]([https://creativecommons.org/licenses/by-nd/4.0/](https://github.com/Auberryy/Natzkiiii/blob/main/LICENSE)).
+Unless specifically stated otherwise, all content in this repository and other repositories/projects that i created is protected under the Apache 2.0 License.
+
 
 Violation of these terms may lead to legal actions in accordance with [Article 17 of the GDPR (Right to erasure)](https://gdpr-info.eu/art-17-gdpr/) and relevant copyright laws.
 
