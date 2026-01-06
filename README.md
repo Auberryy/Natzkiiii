@@ -1,8 +1,8 @@
 # Hi, I’m Aubrey
 ---
 
-- 🌟 **Interests:** Python, Reverse Engineering, Networks
-- 📚 **Currently Learning:** Python, Java, HTML, CSS, JavaScript, Arduino stuff, Unity stuff
+- 🌟 **Interests:** Python, Reverse Engineering, Networks, Machine-Learning, AI-Structures
+- 📚 **Currently Learning:** Python, Java, HTML, CSS, JavaScript, C++
 - 🤝 **Looking to Collaborate On:** Nothing at the moment
 - 📫 **How to Reach Me:** N/A
 - 🌈 **Pronouns:** she/her
